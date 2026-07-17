@@ -4,7 +4,7 @@
 
 This repo is designed for local testing and extension; it contains a device simulator, a tiny anomaly detector suitable for low-power devices, and a central server with a real-time dashboard API.
 
--------------
+--------------
 
 ## Project highlights / why it’s interesting
 - **Edge-first**: minimizes bandwidth by running a compact model on the device.
